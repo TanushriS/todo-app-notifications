@@ -105,3 +105,4 @@ cd taskmaster-pro
 npm install
 cd client
 npm install
+'''
