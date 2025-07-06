@@ -3,6 +3,7 @@
 A modern, full-stack task management application built with MERN stack (MongoDB, Express, React, Node.js) and Supabase, featuring advanced UI components and smart notifications.
 
 🌐 **Live Demo**: [TaskMaster Pro](https://todo-app-notifications.vercel.app/)
+🌐 **Demo Video**: [Demo Video](https://todo-app-notifications.vercel.app/)
 
 ## 🚀 Quick Start
 
@@ -93,10 +94,10 @@ Toggle in top-right corner
 - MongoDB Atlas account or local MongoDB instance
 - Supabase account
 
-### 1. Clone & Install
+### Clone & Install
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/taskmaster-pro.git
+git clone https://github.com/TanushriS/todo-app-notifications.git
 
 # Navigate to project directory
 cd taskmaster-pro
@@ -105,4 +106,6 @@ cd taskmaster-pro
 npm install
 cd client
 npm install
-'''
+```
+## Reach me Out
+[GitHub](https://github.com/TanushriS/) | [LinkedIn](https://www.linkedin.com/in/tanushri-sukhwal-67131728a/)
