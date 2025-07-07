@@ -3,7 +3,7 @@
 A modern, full-stack task management application built with MERN stack (MongoDB, Express, React, Node.js) and Supabase, featuring advanced UI components and smart notifications.
 
 🌐 **Live Demo**: [TaskMaster Pro](https://todo-app-notifications.vercel.app/)
-🌐 **Demo Video**: [Demo Video](https://todo-app-notifications.vercel.app/)
+🌐 **Demo Video**: [Demo Video](https://drive.google.com/drive/folders/1FSw3FpfCVgKCx2kcsio4Wu4ckcRNmF4U?usp=sharing)
 
 ## 🚀 Quick Start
 
